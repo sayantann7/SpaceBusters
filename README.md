@@ -27,7 +27,7 @@ pip install pygame
 3. Run the `spacebusters.py` file:
 
 ```bash
-python spacebusters.py
+python game.py
 ```
 
 ## Controls
